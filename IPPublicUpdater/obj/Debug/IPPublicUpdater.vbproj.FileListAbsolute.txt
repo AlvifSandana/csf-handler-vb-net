@@ -1,0 +1,11 @@
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\bin\Debug\IP Public Updater.exe
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\bin\Debug\IP Public Updater.pdb
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\bin\Debug\IP Public Updater.xml
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IPPublicUpdater.vbproj.AssemblyReference.cache
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IPPublicUpdater.Form1.resources
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IPPublicUpdater.Resources.resources
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IPPublicUpdater.vbproj.GenerateResource.cache
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IPPublicUpdater.vbproj.CoreCompileInputs.cache
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IP Public Updater.exe
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IP Public Updater.xml
+C:\Users\WIP\source\repos\IPPublicUpdater\IPPublicUpdater\obj\Debug\IP Public Updater.pdb

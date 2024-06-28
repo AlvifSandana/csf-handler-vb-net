@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|c:\\users\\wip\\source\\repos\\ippublicupdater\\ippublicupdater\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|solutionrelative:ippublicupdater\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\ippublicupdater\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|solutionrelative:ippublicupdater\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\ippublicupdater\\ipchecker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|solutionrelative:ippublicupdater\\ipchecker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IPPublicUpdater||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D6733-876F-4C70-BC87-1874576F6E4D}|IPPublicUpdater\\IPPublicUpdater.vbproj|c:\\users\\wip\\source\\repos\\ippublicupdater\\ippublicupdater\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPChecker.vb",
+              "DocumentMoniker": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\IPChecker.vb",
+              "RelativeDocumentMoniker": "IPPublicUpdater\\IPChecker.vb",
+              "ToolTip": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\IPChecker.vb",
+              "RelativeToolTip": "IPPublicUpdater\\IPChecker.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T07:16:52.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\Form1.vb",
+              "RelativeDocumentMoniker": "IPPublicUpdater\\Form1.vb",
+              "ToolTip": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\Form1.vb",
+              "RelativeToolTip": "IPPublicUpdater\\Form1.vb",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwIQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T07:22:45.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\Form1.vb",
+              "RelativeDocumentMoniker": "IPPublicUpdater\\Form1.vb",
+              "ToolTip": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\Form1.vb [Design]",
+              "RelativeToolTip": "IPPublicUpdater\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-05T07:12:18.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPPublicUpdater",
+              "DocumentMoniker": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\IPPublicUpdater.vbproj",
+              "RelativeDocumentMoniker": "IPPublicUpdater\\IPPublicUpdater.vbproj",
+              "ToolTip": "C:\\Users\\WIP\\source\\repos\\IPPublicUpdater\\IPPublicUpdater\\IPPublicUpdater.vbproj",
+              "RelativeToolTip": "IPPublicUpdater\\IPPublicUpdater.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-06T02:20:02.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
